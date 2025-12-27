@@ -1,13 +1,29 @@
-<div align="center">
-  <h1><code> ~:: DOUGHKIT ::~ </code></h1>
-  <table>
-    <thead>
-      <td><pre>game_developer && furry_artist && computer_scientist</pre></td>
-    </thead>
-    <tr>
-      <td align="left">
-        <code>this readme is a work in progress!!</code>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<table>
+<tr>
+<td>
+<h1 align="center">
+<code>   .:: DOUGHKIT ::.   </code>
+</h1>
+<pre>
+game_dev && web_dev && furry_artist && computer_scientist
+─────────────────────────────────────────────────────────
+Bio coming soon!! Placeholders galore
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</pre>
+</td>
+<td>
+<img src="https://placehold.co/200x400/EEE/31343C?text=placeholder%20image" height="400">
+</td>
+</tr>
+</table>

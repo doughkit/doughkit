@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**doughkit/doughkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h1><code> ~:: DOUGHKIT ::~ </code></h1>
+  <table>
+    <thead>
+      <td><pre>game_developer && furry_artist && computer_scientist</pre></td>
+    </thead>
+    <tr>
+      <td align="left">
+        <code>this readme is a work in progress!!</code>
+      </td>
+    </tr>
+  </table>
+</div>
